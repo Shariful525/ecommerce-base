@@ -9,7 +9,7 @@ export default function Home() {
             <a href="#">Shtëpi</a>
           </li>
           <li>
-            <a className="text-red-500" href="#">
+            <a className="text-red-500 line-through" href="#">
               rreth
             </a>
           </li>
