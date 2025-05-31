@@ -6,18 +6,18 @@ export default function Home() {
       <nav>
         <ul>
           <li>
-            <a href="#">Home</a>
+            <a href="#">Shtëpi</a>
           </li>
           <li>
             <a className="text-red-500" href="#">
-              About
+              rreth
             </a>
           </li>
           <li>
-            <a href="#">Blogs</a>
+            <a href="#">blogjet</a>
           </li>
           <li>
-            <a href="#">Services</a>
+            <a href="#">shërbimet</a>
           </li>
         </ul>
       </nav>
