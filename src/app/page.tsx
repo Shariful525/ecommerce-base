@@ -9,7 +9,9 @@ export default function Home() {
             <a href="#">Home</a>
           </li>
           <li>
-            <a href="#">About</a>
+            <a className="text-red-500" href="#">
+              About
+            </a>
           </li>
           <li>
             <a href="#">Blogs</a>
